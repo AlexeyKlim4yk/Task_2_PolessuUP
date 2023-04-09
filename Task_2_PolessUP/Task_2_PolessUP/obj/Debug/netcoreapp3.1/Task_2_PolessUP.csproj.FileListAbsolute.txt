@@ -1,0 +1,14 @@
+C:\Users\Eleme\source\repos\Task_2_PolessUP\Task_2_PolessUP\bin\Debug\netcoreapp3.1\Task_2_PolessUP.exe
+C:\Users\Eleme\source\repos\Task_2_PolessUP\Task_2_PolessUP\bin\Debug\netcoreapp3.1\Task_2_PolessUP.deps.json
+C:\Users\Eleme\source\repos\Task_2_PolessUP\Task_2_PolessUP\bin\Debug\netcoreapp3.1\Task_2_PolessUP.runtimeconfig.json
+C:\Users\Eleme\source\repos\Task_2_PolessUP\Task_2_PolessUP\bin\Debug\netcoreapp3.1\Task_2_PolessUP.runtimeconfig.dev.json
+C:\Users\Eleme\source\repos\Task_2_PolessUP\Task_2_PolessUP\bin\Debug\netcoreapp3.1\Task_2_PolessUP.dll
+C:\Users\Eleme\source\repos\Task_2_PolessUP\Task_2_PolessUP\bin\Debug\netcoreapp3.1\Task_2_PolessUP.pdb
+C:\Users\Eleme\source\repos\Task_2_PolessUP\Task_2_PolessUP\obj\Debug\netcoreapp3.1\Task_2_PolessUP.csproj.AssemblyReference.cache
+C:\Users\Eleme\source\repos\Task_2_PolessUP\Task_2_PolessUP\obj\Debug\netcoreapp3.1\Task_2_PolessUP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eleme\source\repos\Task_2_PolessUP\Task_2_PolessUP\obj\Debug\netcoreapp3.1\Task_2_PolessUP.AssemblyInfoInputs.cache
+C:\Users\Eleme\source\repos\Task_2_PolessUP\Task_2_PolessUP\obj\Debug\netcoreapp3.1\Task_2_PolessUP.AssemblyInfo.cs
+C:\Users\Eleme\source\repos\Task_2_PolessUP\Task_2_PolessUP\obj\Debug\netcoreapp3.1\Task_2_PolessUP.csproj.CoreCompileInputs.cache
+C:\Users\Eleme\source\repos\Task_2_PolessUP\Task_2_PolessUP\obj\Debug\netcoreapp3.1\Task_2_PolessUP.dll
+C:\Users\Eleme\source\repos\Task_2_PolessUP\Task_2_PolessUP\obj\Debug\netcoreapp3.1\Task_2_PolessUP.pdb
+C:\Users\Eleme\source\repos\Task_2_PolessUP\Task_2_PolessUP\obj\Debug\netcoreapp3.1\Task_2_PolessUP.genruntimeconfig.cache
